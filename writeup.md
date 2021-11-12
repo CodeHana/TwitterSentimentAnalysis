@@ -1,4 +1,4 @@
-# Classification Model for Bankruptcy Prediction
+# Unsupervised Learning for TwitterSentimentAnalysis
 
 *Cindy Su*
 
